@@ -15,7 +15,8 @@
     "login": {
       "username": ["Joeiscool"],
       "password": [3403]
-  }
+}
+  },
   {
     "name": "Billy",
     "age": 24,
