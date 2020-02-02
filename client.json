@@ -1,29 +1,27 @@
+
 [
   {
     "name": "bob",
-    "age": 43,
-    "email": "boblikesgoogle@gmail.com"
-    "login": {
-      "username": ["bobiscool"],
-      "password": [3411]
+    "age" : 24,
+    "smoothies": {
+      "likes": ["guava", "apple"],
+      "dislikes": ["cucumber", "pear"]
+    }
+  },
+  {
+    "name": "Billy",
+    "age" : 44,
+    "smoothies": {
+      "likes": ["guava", "apple"],
+      "dislikes": ["cucumber", "pear"]
     }
   },
   {
     "name": "Joe",
-    "age": 19,
-    "email": "Joelikesgoogle@gmail.com"
-    "login": {
-      "username": ["Joeiscool"],
-      "password": [3403]
-}
-  },
-  {
-    "name": "Billy",
-    "age": 24,
-    "email": "Billylikesgoogle@gmail.com"
-    "login": {
-      "username": ["billyiscool"],
-      "password": [3423]
+    "age" : 58,
+    "smoothies": {
+      "likes": ["guava", "apple"],
+      "dislikes": ["cucumber", "pear"]
     }
   }
 ]
