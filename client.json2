@@ -1,0 +1,27 @@
+
+[
+  {
+    "name": "bob",
+    "age" : 24,
+    "smoothies": {
+      "likes": ["guava", "apple"],
+      "dislikes": ["cucumber", "pear"]
+    }
+  },
+  {
+    "name": "Billy",
+    "age" : 44,
+    "smoothies": {
+      "likes": ["guava", "apple"],
+      "dislikes": ["cucumber", "pear"]
+    }
+  },
+  {
+    "name": "Joe",
+    "age" : 58,
+    "smoothies": {
+      "likes": ["guava", "apple"],
+      "dislikes": ["cucumber", "pear"]
+    }
+  }
+]
